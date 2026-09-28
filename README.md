@@ -5,6 +5,10 @@ Indonesian capital-market data with the source and period beside every number.
 Prices, exchange filings, depository ownership, government bonds, mutual funds and
 news, in one REST API and an MCP server for AI agents.
 
+<a href="https://furyoktria.github.io/explainers/tarutha-quickstart/"><img src="docs/explainer-poster.jpg" width="100%" alt="Watch the 2:44 video tour of tarutha-quickstart: what it does, a map of the code, the life of a request, the core ideas and a real run"></a>
+
+**[Watch the 2:44 tour](https://furyoktria.github.io/explainers/tarutha-quickstart/)**: what it does, a map of the code, the life of a request, the core ideas and a real run.
+
 This repo holds code only and ships no market data. Every example asks the API
 when you run it. Python 3.8 or newer, standard library only.
 
